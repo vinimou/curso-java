@@ -1,0 +1,11 @@
+package fundamentos;
+
+import java.security.DomainCombiner;
+
+public class PrimeiroPrograma {
+	
+	public static void main(String[] args) {
+		System.out.println("Teste basico");
+	}
+
+}
